@@ -1,4 +1,4 @@
-// Create Webserver
+// Create Web server
 // By: Ronny Tompot
 // Date: 2016-05-26
 // Edited: 2016-05-27
