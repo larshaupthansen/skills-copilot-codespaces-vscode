@@ -1,4 +1,4 @@
-// Create Web server application which is responsible for comments.
+// Create web server application which is responsible for comments.
 // The application is able to store comments and retrieve them.
 // The application should be able to store comments in a file.
 // The application should be able to store comments in a database.
